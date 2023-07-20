@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Cristo Monten, a skilled writer and programmer from France. My love for technology and unending determination to continually enhance software has led me to spend most of my life learning and mastering new technologies. I'm recognized for my contributions to the blog "MyCyberUniverse," where I share my wisdom and perspectives on various programming subjects.
+
 <!--
 **cristomonten/CristoMonten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
